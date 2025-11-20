@@ -37,6 +37,7 @@ deactivate
 <!-- KtF-->
 ```bash <!-- markdownlint-disable-line code-block-style -->
 pip install ibind[oauth]
+pip install oauthlib # https://pypi.org/project/oauthlib/
 ```
 <!-- ktf -->
 ## dummy code block
